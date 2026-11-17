@@ -64,5 +64,131 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Grease Cleaning is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://greasecleaning.fyi
+Grease Cleaning provides a free, no‑key API that offers searchable listings of kitchen exhaust and grease cleaning services across the United States. Users can query listings by keyword, location, or country code to retrieve detailed information about service providers, including names, categories, attributes, descriptions, and geographic data. The API returns results with attribution metadata and source references, supporting robust integration for applications that need up‑to‑date cleaning service data.
+
+**Areas:** Company · API · Data · Cleaning · Services · United-States
+
+## Grease Cleaning on APIs.io
+
+Everything profiled for Grease Cleaning is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/greasecleaning-fyi/](https://apis.io/providers/greasecleaning-fyi/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [Grease Cleaning Academy API](https://apis.io/apis/greasecleaning-fyi/greasecleaning-fyi-academy-api/) — The Academy API from Grease Cleaning — 2 operation(s) for academy.
+- [Grease Cleaning Admin API](https://apis.io/apis/greasecleaning-fyi/greasecleaning-fyi-admin-api/) — The Admin API from Grease Cleaning — 160 operation(s) for admin.
+- [Grease Cleaning Categories API](https://apis.io/apis/greasecleaning-fyi/greasecleaning-fyi-categories-api/) — The Categories API from Grease Cleaning — 1 operation(s) for categories.
+- [Grease Cleaning Certificates API](https://apis.io/apis/greasecleaning-fyi/greasecleaning-fyi-certificates-api/) — The Certificates API from Grease Cleaning — 1 operation(s) for certificates.
+- [Grease Cleaning Listings API](https://apis.io/apis/greasecleaning-fyi/greasecleaning-fyi-listings-api/) — The Listings API from Grease Cleaning — 2 operation(s) for listings.
+- [Grease Cleaning Places API](https://apis.io/apis/greasecleaning-fyi/greasecleaning-fyi-places-api/) — The Places API from Grease Cleaning — 1 operation(s) for places.
+- [Grease Cleaning Product Categories API](https://apis.io/apis/greasecleaning-fyi/greasecleaning-fyi-product-categories-api/) — The Product Categories API from Grease Cleaning — 1 operation(s) for product categories.
+- [Grease Cleaning Products API](https://apis.io/apis/greasecleaning-fyi/greasecleaning-fyi-products-api/) — The Products API from Grease Cleaning — 2 operation(s) for products.
+- [Grease Cleaning Sources API](https://apis.io/apis/greasecleaning-fyi/greasecleaning-fyi-sources-api/) — The Sources API from Grease Cleaning — 1 operation(s) for sources.
+- [Grease Cleaning Sponsor API](https://apis.io/apis/greasecleaning-fyi/greasecleaning-fyi-sponsor-api/) — The Sponsor API from Grease Cleaning — 2 operation(s) for sponsor.
+- [Grease Cleaning Stats API](https://apis.io/apis/greasecleaning-fyi/greasecleaning-fyi-stats-api/) — The Stats API from Grease Cleaning — 1 operation(s) for stats.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Grease Cleaning Agentic Access](https://apis.io/agentic-access/greasecleaning-fyi/greasecleaning-fyi-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Certificate](https://apis.io/schemas/greasecleaning-fyi/greasecleaning-fyi-certificate/)
+- [Course](https://apis.io/schemas/greasecleaning-fyi/greasecleaning-fyi-course/)
+- [CourseDetail](https://apis.io/schemas/greasecleaning-fyi/greasecleaning-fyi-course-detail/)
+- [Listing](https://apis.io/schemas/greasecleaning-fyi/greasecleaning-fyi-listing/)
+- [ListingItem](https://apis.io/schemas/greasecleaning-fyi/greasecleaning-fyi-listing-item/)
+- [Product](https://apis.io/schemas/greasecleaning-fyi/greasecleaning-fyi-product/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Greasecleaning Fyi Context](https://apis.io/jsonld/greasecleaning-fyi/greasecleaning-fyi-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Grease Cleaning API Rules](https://apis.io/rules/greasecleaning-fyi/greasecleaning-fyi-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Grease Cleaning Domain Security](https://apis.io/security/greasecleaning-fyi/greasecleaning-fyi-domain-security/)
+- [Grease Cleaning Vulnerability Disclosure](https://apis.io/security/greasecleaning-fyi/greasecleaning-fyi-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://greasecleaning.fyi)
+- [Documentation](https://greasecleaning.fyi/developers)
+- [API reference](https://greasecleaning.fyi/api/v1/openapi.json)
+- [Support](https://greasecleaning.fyi/contact)
+- [Terms of service](https://greasecleaning.fyi/terms)
+- [Privacy policy](https://greasecleaning.fyi/privacy)
+
+## API Evangelist rating
+
+**Kin Score 40.7** — developing · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 78.6 |
+| Contract quality | 51.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 17.0 |
+
+**Agent readiness 44.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/greasecleaning-fyi/](https://apis.io/providers/greasecleaning-fyi/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Grease Cleaning: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/greasecleaning-fyi/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
